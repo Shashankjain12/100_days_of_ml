@@ -1,3 +1,4 @@
+<h1 align="center">Project 1:MNIST dataset Prediction using Tensorflow</h1>
 This project involves linear regression of mnist dataset using LinearRegression machine learning
 
 This project involves:-
@@ -13,10 +14,15 @@ For simple linear regression-
 	> Setting up of X as the placeholder value for inputs
 	> Setting up of y as the placeholder value for outputs
 	> Setting up of set of biases as the variables for set of zeroes as the vector
+		
 		w-->tf.Variable(initial_value=None,dtype=None,Trainable=True,shape=None)
+		
 		X-->tf.placeholder(dtype=tf.float32,shape=[batch_size,784],name="Image")
+		
 		y-->tf.placeholder(dtype=tf.float32,shaoe=[batch_size,10],name="Label")
+		
 		b-->tf.Variable(initial_value=None,dtype=None,trainable=True,name=None)
+		
 		logits-->X*w+b
 
 		y_predicted-->softmax(logits)
