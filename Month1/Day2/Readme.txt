@@ -1,4 +1,5 @@
-<h1 align="center"> DAY 2</h1>
+DAY 2
+
 Worked on basic understanding of what is machine learning. 
 Machine learning:- This is the branch of computing which means make the machine learn on the basis of some previous experiences.It involves making machine finding some correlations between data of the given inputs and outputs.So what we feed in the machine the input data and some output data as the dataset and based on that dataset our machine on the basis of certain relation set some hypothesis which determine the correlations between our data.
 
