@@ -8,13 +8,16 @@ variable is time then you are forecasting for future values this concept summari
 concept of simple line ie it leads to construction of line around certain datapoints and there by obtaining the values of y for certain
 values of X this leads for prediction of certain values.
 This uses a simple mathematical formula for predicting values of y Given As:-
+
                 `y=m*x+c`
+
 here y-->dependant variable that depends on certain values of X
 m--> Slope of line ie. the angle of line from x-axis
 x-->Independant variable whose values doesnot depends on itself but useful for predicting of dependant variables
 c-->Constant 
 
 We also generalises this formula as:-
+
                 `h_theta(x)=theta_zero + theta_one * x`
 
 h(x)-->hypothesis or predicted values
@@ -37,15 +40,19 @@ Outline:-
 2. Keep Changing the values of theta_zero and theta_one to reduce the cost function 
 
 Given by:-
+
 	`theta(j):= theta(j) - alpha * gradient(j(theta_zero,theta_one))`
 	
 	alpha:-Learning rate which basically controls how much bigger step do we need to take while calculating
 	       local minima ie it updates value of theta after every step simultaneously until it reach local
 	       local minimum value.
+	       
 	So according to this our gradient Descent algo will be -
+	
 	Repeat Until Convergence{
 		theta_zero := theta_zero - alpha* 1/m(h(x) - y)
 		theta_one  := theta_one - alpha * 1/m(h(x) - y)*x(i)
 		}
-
+		
+Thanks for Reading tommorow i will implement this algo.
 
