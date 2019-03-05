@@ -4,7 +4,7 @@ This involves studying the dataset and on the basis of those observation predict
 of the product using multiple regression So I had used tensorflow due to it's Fascinating libraries and other
 amazing features
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/googlecolab/colabtools/blob/master/notebooks/colab-github-demo.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Shashankjain12/100_days_of_ml/blob/master/Month1/Day7/tensor_multi.ipynb)
 
 So, This involves using of certain simple machine learning steps:-
 
