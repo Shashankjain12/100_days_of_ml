@@ -29,5 +29,6 @@ Then TensorBoard is configured to watch this log file with summary
 information and display how this information changes over time.
 
 The tensorboard graph obtained is:-
-
-![alt image](https://github.com/Shashankjain12/100_days_of_ml/tree/master/Month1/Day9/img.png)
+<p align="center">
+<img src="https://github.com/Shashankjain12/100_days_of_ml/tree/master/Month1/Day9/img.png" width="350" title="Tensoboard image">
+</p>
