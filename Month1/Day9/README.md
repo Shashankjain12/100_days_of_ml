@@ -1,5 +1,5 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Shashankjain12/100_days_of_ml/blob/master/Month1/Day9/linear_regression_with_tensorboard.ipynb)
-![alt image](https://raw.githubusercontent.com/Shashankjain12/100_days_of_ml/blob/master/Month1/Day9/img.png)
+
 
 <h1 align="center">Tensorboard</h1>
 
@@ -27,3 +27,7 @@ summary operations into the graph. These summary operations monitor
 changing values (during the execution of a computation) written in a log file.
 Then TensorBoard is configured to watch this log file with summary
 information and display how this information changes over time.
+
+The tensorboard graph obtained is:-
+
+![alt image](https://github.com/Shashankjain12/100_days_of_ml/tree/master/Month1/Day9/img.png)
